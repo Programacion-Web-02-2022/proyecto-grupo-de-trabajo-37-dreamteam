@@ -6,11 +6,11 @@
 
 Versión más reciente de Visual Studio Code, MongoDB Compass para le gestión de la base de dato.
 
-+Extensiones VS: Babel JavaScript (Michael McDermott, v0.0.36), ES7+ React/Redux/React-Native(dsznajde,v4.4.3), Path Intellisense (Christian Kohler, v2.8.0), ESLint(Microsoft, v2.2.2)
++ Extensiones VS: Babel JavaScript (Michael McDermott, v0.0.36), ES7+ React/Redux/React-Native(dsznajde,v4.4.3), Path Intellisense (Christian Kohler, v2.8.0), ESLint(Microsoft, v2.2.2)
 
-+Cliente: react-icons (version:4.7.1) , react-router-doom(version: 5.3.0)
++ Cliente: react-icons (version:4.7.1) , react-router-doom(version: 5.3.0)
 
-+API: mongoose(version:6.7.4), jsonwebtoken(version:8.5.1), express(version:4.18.2,), bcryptjs(version:2.4.3), nodemon(version: 2.0.20)
++ API: mongoose(version:6.7.4), jsonwebtoken(version:8.5.1), express(version:4.18.2,), bcryptjs(version:2.4.3), nodemon(version: 2.0.20)
 
 *Todas las demás dependencias especificadas en package.json tales como "debug" o "cookieparser" se traen incluidas automaticamente al ser creada la ruta de la carpeta API.*
 
@@ -42,6 +42,7 @@ El botón de registro redirige al usuario a un formulario en el cual se le piden
 ### Links para utilizar
 
 Cliente: https://client-deploy-hazel.vercel.app/
+
 API: https://api-deploy-production.up.railway.app/
 
 

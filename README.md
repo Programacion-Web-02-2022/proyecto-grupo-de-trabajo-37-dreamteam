@@ -1,4 +1,4 @@
-﻿\# Readme Proyecto PW
+\# Readme Proyecto PW
 
 \## DreamTeam #37
 

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38af5068.css",
+    "main.js": "/static/js/main.a026df72.js",
+    "static/media/developers.jpg": "/static/media/developers.b51b46f6ab4418122d35.jpg",
+    "static/media/why-about.jpg": "/static/media/why-about.6968b1a0550fc79e20e8.jpg",
+    "static/media/story-image.jpg": "/static/media/story-image.c1ebab3dcce4316acf36.jpg",
+    "static/media/valores.jpg": "/static/media/valores.04c8e49dcc36185d1d9b.jpg",
+    "static/media/log-in.jpg": "/static/media/log-in.9d3356ecbc57a11fef08.jpg",
+    "static/media/register.jpg": "/static/media/register.41e6d629b5c87e1a872b.jpg",
+    "static/media/about-us-1.jpg": "/static/media/about-us-1.5e0e9d60e1e54c124d77.jpg",
+    "static/media/contact.jpg": "/static/media/contact.72e3b1a2b6247f267199.jpg",
+    "static/media/Xavier.jpeg": "/static/media/Xavier.122cb35ee7d211dc66be.jpeg",
+    "static/media/Mario.jpeg": "/static/media/Mario.3d614ca5664fbc0315a7.jpeg",
+    "static/media/Loco-UCA.png": "/static/media/Loco-UCA.083a4bbeaab341fc1e87.png",
+    "static/media/Logo1.png": "/static/media/Logo1.ae270d2593544c8a41ee.png",
+    "static/media/Brandon.jpeg": "/static/media/Brandon.32a361bfa8f1f3b14859.jpeg",
+    "index.html": "/index.html",
+    "main.38af5068.css.map": "/static/css/main.38af5068.css.map",
+    "main.a026df72.js.map": "/static/js/main.a026df72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38af5068.css",
+    "static/js/main.a026df72.js"
+  ]
+}

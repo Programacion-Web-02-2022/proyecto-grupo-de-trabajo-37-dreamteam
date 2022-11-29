@@ -1,12 +1,12 @@
-\# Readme Proyecto PW
+# Readme Proyecto PW
 
-\## DreamTeam #37
+## DreamTeam #37
 
-\### GUÍA DE INSTALACIÓN
+### GUÍA DE INSTALACIÓN
 
 Versión más reciente de Visual Studio Code, MongoDB Compass para le gestión de la base de datos, en terminal, instalar npm, yarn, nodemon, express-validator y dotenv para la correcta ejecución mediante ‘npm run start:dev’.
 
-\### MANUAL DE USUARIO
+### MANUAL DE USUARIO
 
 En la página principal se pueden apreciar distintas secciones de navegación que muestran los distintos objetivos de la aplicación y datos sobre su creación y aporte a la sociedad, enfocándonos principalmente en los jóvenes recién egresados de sus respectivas carreras.
 
